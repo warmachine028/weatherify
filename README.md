@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+    updated: Sunday, 17th July 2022
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align=center>
+    <a href="https://weatherify-pritam.netlify.app">
+        <img width=200 src="public/images/logo.png" alt="Weatherify">
+    </a>
+    <p style="font-family: roboto, calibri; font-size:12pt; font-style:italic"> A sunny day is a happy day </p>
+    <a href="https://app.netlify.com/sites/weatherify-pritam/deploys">
+    <img src="https://api.netlify.com/api/v1/badges/88ea7dc9-2b7c-46d1-8ddb-54f6e5e049ce/deploy-status" alt="Netlify Status">
+    </a>
+</div>
 
-## Available Scripts
 
-In the project directory, you can run:
+# [Weatherify](https://weatherify-pritam.netlify.app)
 
-### `npm start`
+## What's new?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Everything 🌟⭐🌠
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of Contents
 
-### `npm test`
+- [Introduction](#introduction)
+- [Featues](#features)
+- [Tech Stack Used](#tech-stack-used)
+- [Previews](#previews)
+- [Demo](#demo)
+- [License](#license)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Introduction
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- A really nice weather app built with react.
+- This application is a Progressive Web App
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
 
-### `npm run eject`
+- Minimalist UI
+- Displays Weather of any Location with nice card component
+- Installable in Mobile and Desktops
+- Instant and Fully responsive
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tech Stack Used
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Html
+- Css
+- Axios
+- NodeJS
+- React
+- Netlify
+- Open Weather API
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Previews
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Desktop Preview
 
-### Code Splitting
+![Desktop-Preview](assets/desktop-preview.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Mobile Preview
 
-### Analyzing the Bundle Size
+![Mobile-Preview](assets/mobile-preview.jpg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- User Details:
 
-### Making a Progressive Web App
+![Offline Page](assets/offline-preview.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## Upcomming
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Make it better
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## License
 
-### `npm run build` fails to minify
+- see [LICENSE]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**Pritam, 2022**
+
+[license]: https://github.com/warmachine028/weatherify/blob/main/LICENSE
